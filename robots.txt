@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://harsh3305.github.io/MyResume/sitemap.xml
