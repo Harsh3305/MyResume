@@ -564,6 +564,10 @@ h3 {
     align-items: start;
   }
 
+  .role > :only-child {
+    grid-column: 2;
+  }
+
   .dates {
     padding-top: 0.2rem;
   }
